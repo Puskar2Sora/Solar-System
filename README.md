@@ -22,7 +22,7 @@ Planets orbit the Sun, the stars shimmer, and the infinite beauty of space unfol
 > “The cosmos is within us. We are made of star-stuff.” — *Carl Sagan*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/preview.gif" width="90%" alt="Solar System Animation Preview"/>
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/galaxy.gif" width="36%" alt="Solar System Animation Preview"/>
 </p>
 
 ---
