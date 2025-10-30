@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/preview-banner.png" width="100%" alt="Solar System Banner"/>
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/banner.png" width="40%" alt="Solar System Banner"/>
 </p>
 
 <h1 align="center">🌞✨ 3D Solar System — Explore the Universe 🌌</h1>
@@ -43,7 +43,7 @@ This project combines the **power of JavaScript animation** and **creative web d
 to simulate planetary orbits and rotations using smooth motion equations and CSS effects.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/code-preview.png" width="90%" alt="Code Preview Screenshot"/>
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/bts.png" width="90%" alt="Code Preview Screenshot"/>
 </p>
 
 ---
