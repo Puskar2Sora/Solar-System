@@ -1,36 +1,61 @@
-# 🚀 3D Solar System  
-[View Live Demo →](https://puskar2sora.github.io/Solar-System/)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/preview-banner.png" width="100%" alt="Solar System Banner"/>
+</p>
+
+<h1 align="center">🌞✨ 3D Solar System — Explore the Universe 🌌</h1>
+
+<p align="center">
+  <strong>A mesmerizing 3D journey through our Solar System, built with HTML, CSS & JavaScript.</strong><br/>
+  <a href="https://puskar2sora.github.io/Solar-System/">🌐 View Live Demo</a> </p>
+   <p align ="center"><strong>Fell Free To Contribute</strong>
+  <a href="https://github.com/puskar2sora/Solar-System">⭐ Star the Repo</a>
+</p>
 
 ---
 
-## 🌞 Project Overview  
-Step into the cosmos with **3D Solar System** — an immersive, browser-based visualization of our solar system created with love and code.  
-Witness planets orbiting, moons dancing around, and the vastness of space brought to your screen.
+## 🪐 Overview
 
-This project was built to:  
-- Inspire curiosity about astronomy and space exploration  
-- Showcase modern web technologies in action  
-- Provide a fun, interactive learning tool for students and enthusiasts  
+Welcome to **3D Solar System**, a web-based space simulation where the universe comes alive.  
+Planets orbit the Sun, the stars shimmer, and the infinite beauty of space unfolds before your eyes.
 
----
+> “The cosmos is within us. We are made of star-stuff.” — *Carl Sagan*
 
-## 🛠 Features  
-- Realistic 3D models of the Sun, planets (Mercury to Neptune), and their orbits  
-- Smooth animations of orbital motion and planetary rotations  
-- Interactive camera controls — zoom, rotate, pan to explore the system from any angle  
-- Responsive design: works seamlessly on desktops, tablets and larger phones  
-- Clean, maintainable codebase using HTML5, CSS3, and JavaScript (with optional WebGL / Three.js)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/preview.gif" width="90%" alt="Solar System Animation Preview"/>
+</p>
 
 ---
 
-## 🎨 Why It Stands Out  
-- **Visual Immersion**: The combination of 3D models and smooth transitions gives a sense of scale and motion not often found in simple web-based solar systems.  
-- **Educational Value**: Perfect for educators, students and curious minds — a fun way to understand orbital mechanics, planetary sizes and relative positions.  
-- **Polished Experience**: Fast loading, minimal UI distractions and a focus on the celestial journey make it feel like you’re piloting through space.
+## ✨ Features
+
+✅ **Interactive Exploration** — Rotate, zoom, and pan through the solar system in 3D  
+🌍 **Realistic Planet Motions** — Orbits, rotations, and scale-based visuals  
+☄️ **Minimal & Futuristic UI** — Clean design for an immersive feel  
+📱 **Responsive Design** — Works beautifully on desktop and tablets  
+🧠 **Educational & Fun** — Perfect for learning or just stargazing digitally  
 
 ---
 
-## 🧩 How to Use / Run Locally  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/puskar2sora/Solar-System.git
+## 🧠 Behind the Scenes
+
+This project combines the **power of JavaScript animation** and **creative web design**  
+to simulate planetary orbits and rotations using smooth motion equations and CSS effects.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/code-preview.png" width="90%" alt="Code Preview Screenshot"/>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| 🧱 **HTML5** | Structure of the universe |
+| 🎨 **CSS3** | Cosmic styling and animations |
+| ⚙️ **JavaScript (Vanilla)** | Logic, motion, and interactivity |
+| 🌌 **Three.js (optional)** | For advanced 3D and space depth |
+| 🪄 **Custom Assets** | Planet textures, orbits, and stars |
+
+---
