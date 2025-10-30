@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D Solar System 🌞</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="universe"></canvas>
+
+  <!-- Info Popup -->
+  <div id="info-card" class="hidden">
+    <h1 id="planet-name"></h1>
+    <p id="planet-info"></p>
+    <button id="close-btn">Return to Space 🚀</button>
+  </div>
+
+  <!-- Background Music -->
+<audio id="bg-music" src="assets/space.mp3" preload="auto" loop></audio>
+
+
+  <!-- Libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lil-gui@0.18"></script>
+  <script src="script.js"></script>
+</body>
+</html>
