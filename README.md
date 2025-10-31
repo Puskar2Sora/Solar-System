@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/banner.png" width="40%" alt="Solar System Banner"/>
+  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/galaxy.gif" width="36%" alt="Solar System Animation Preview"/>
 </p>
 
-<h1 align="center">🌞✨ 3D Solar System — Explore the Universe 🌌</h1>
+<h1 align="center">🌞✨ 3D Solar System </h1>
 
 <p align="center">
   <strong>A mesmerizing 3D journey through our Solar System, built with HTML, CSS & JavaScript.</strong><br/>
@@ -23,9 +23,6 @@ Planets orbit the Sun, the stars shimmer, and the infinite beauty of space unfol
 
 > “The cosmos is within us. We are made of star-stuff.” — *Carl Sagan*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/puskar2sora/Solar-System/main/assets/galaxy.gif" width="36%" alt="Solar System Animation Preview"/>
-</p>
 
 ---
 
